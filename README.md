@@ -11,6 +11,6 @@ Welcome to the Stock Market Prediction Model repository, where data meets the fi
 - Python
 - Machine learning libraries
 - Web framework 
-- Wine dataset
+- Stock market dataset
 # Acknowledgments
 This project draws inspiration from various recommendation systems and leverages open-source libraries. We acknowledge the contributions of the open-source community in making this project possible.
