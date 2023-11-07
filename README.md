@@ -7,3 +7,10 @@ Welcome to the Stock Market Prediction Model repository, where data meets the fi
 - Interactive Jupyter notebooks
 - Model evaluation metrics
 - Model explainability
+# Dependencies
+- Python
+- Machine learning libraries
+- Web framework 
+- Wine dataset
+# Acknowledgments
+This project draws inspiration from various recommendation systems and leverages open-source libraries. We acknowledge the contributions of the open-source community in making this project possible.
